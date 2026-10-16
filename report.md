@@ -10,7 +10,7 @@
   - Tài xế cá nhân sở hữu xe VinFast (VF e34, VF 5, VF 8, VF 9).
   - Hơn **30.000+ tài xế taxi Xanh SM** và tài xế xe buýt điện VinBus hoạt động với cường độ cao (10–14 tiếng/ngày).
 - **Nỗi đau thực tế (Pain Point):**
-  - Mất tập trung khi lái xe (nhìn điện thoại, quay sang nói chuyện kéo dài với người bên cạnh, ngủ gật) là nguyên nhân hàng đầu gây ra các vụ va chạm giao thông.
+  - Mất tập trung khi lái xe (nhìn điện thoại, quay sang nói chuyện kéo dài với người bên cạnh) là nguyên nhân hàng đầu gây ra các vụ va chạm giao thông.
   - Các hệ thống cảnh báo cồng kềnh thường đòi hỏi GPU đắt đỏ hoặc gây báo động giả liên tục (alert fatigue) khi tài xế chỉ liếc nhìn gương chiếu hậu trong tích tắc.
 - **Giải pháp:** Xây dựng hệ thống giám sát người lái (Driver Monitoring System) siêu nhẹ, chạy thời gian thực trực tiếp trên CPU nhúng, kết hợp nhận diện mốc khuôn mặt với mô hình suy luận thời gian (temporal reasoning) để phân biệt chính xác giữa cử động quan sát thông thường và hành vi mất tập trung nguy hiểm.
 

@@ -44,3 +44,4 @@ def test_talking_and_away_alert():
 
 if __name__=='__main__':
     test_no_face_unknown(); test_calibration_forward(); test_consecutive_head_turn_alert(); test_talking_and_away_alert(); print('4 tests passed')
+    print()
